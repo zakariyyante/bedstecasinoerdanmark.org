@@ -22,9 +22,8 @@ export const siteConfig = {
     {
       name: "Expekt",
       logo: "expekt.webp",
-      description: "💎EXCLUSIVE OFFER FÅ 50 GYLDNE FREESPINS",
+      description: "FÅ 50 GYLDNE FREESPINS",
       rating: 9.9,
-      minDeposit: "10 €",
       bonus: "Top Bedømt",
       link: "https://nye.expekt.dk/redirect.aspx?pid=3732317&lpid=1255&bid=17147&s1=Expekt-DK01ZZ&s4={gclid}",
       badge: "1500 valgte expert i dag"
